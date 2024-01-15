@@ -23,7 +23,3 @@ print("All reviews:", Review.all())
 print("Customer 1's restaurants:", customer1.restaurants())
 print("Restaurant 1's customers:", restaurant1.customers())
 print("Average rating for Restaurant 1:", restaurant1.average_star_rating())
-
-# Additional testing based on your methods
-
-# ...
